@@ -1,11 +1,11 @@
- {
+{
   "piatti": [
     {
       "id": 1,
       "category": "antipasti",
       "title": "Tagliere di salumi",
       "description": "Un assortimento di salumi regionali ed extraregionali.",
-      "imageUrl": "https://s2.qwant.com/thumbr/474x305/5/3/9315053254c8a27110cac313ae200a7bc0aac32548878c360d99aa4d9df995/th.jpg?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iWl8iubioz_7a5xnC-VmUQHaEx%26pid%3DApi&q=0&b=1&p=0&a=0",
+      "imageUrl": "https://michelefenu.github.io/tnv-academy-VII/the-net-pizza-bootstrap/assets/images/tagliere-salumi.jpg",
       "price": "12",
       "ingredients": [
         "Prosciutto",
@@ -14,7 +14,7 @@
         "Soppressata",
         "Salame Piccante"
       ],
-      "available": true,
+      "available": false,
       "allergens": ["Glutine"],
       "nutritionalValues": {
         "kcal": "145",
@@ -31,9 +31,9 @@
       "category": "antipasti",
       "title": "Antipasto di Mare",
       "description": "Una selezione di antipasti tradizionali a base di pesce.",
-      "imageUrl": "https://s1.qwant.com/thumbr/474x355/9/b/f7b0a54ecb89ea347fb5d7257650d7d76699f2f54cdc926a1acbfb7202242e/th.jpg?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.eHrOEM8XzCHAksMINLAyLAHaFj%26pid%3DApi&q=0&b=1&p=0&a=0",
+      "imageUrl": "https://michelefenu.github.io/tnv-academy-VII/the-net-pizza-bootstrap/assets/images/antipasto-mare.jpg",
       "price": "15",
-      "available": true,
+      "available": false,
       "ingredients": [
         "Polpo",
         "Cozze",
@@ -57,7 +57,7 @@
       "category": "antipasti",
       "title": "Zuppa di Mare",
       "description": "Zuppa di cozze e arselle su crostini piccanti.",
-      "imageUrl": "https://s1.qwant.com/thumbr/474x316/9/7/ce5926fd831326a5969cbbd6701e5d2c5dcca3de054ec3abccfbc45023fd5a/th.jpg?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.nxwr1rnDvXZ9HQyAnhhUjwHaE8%26pid%3DApi&q=0&b=1&p=0&a=0",
+      "imageUrl": "https://michelefenu.github.io/tnv-academy-VII/the-net-pizza-bootstrap/assets/images/zuppa-mare.jpg",
       "price": "10",
       "available": false,
       "ingredients": [
@@ -82,9 +82,9 @@
       "category": "primi",
       "title": "Carbonara",
       "description": "Un classico intramontabile della cucina romana.",
-      "imageUrl": "https://s1.qwant.com/thumbr/474x355/3/f/7717e4316ea45fdb3270ff8da3ed806b7f13cbdca97017e4fba4c3ba97d4ff/th.jpg?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Z5n2hqYegs1_o4GDHBxRkwHaFj%26pid%3DApi&q=0&b=1&p=0&a=0",
+      "imageUrl": "https://michelefenu.github.io/tnv-academy-VII/the-net-pizza-bootstrap/assets/images/carbonara.jpg",
       "price": "9",
-      "available": true,
+      "available": false,
       "ingredients": [
         "Pasta",
         "Uova",
@@ -107,7 +107,7 @@
       "category": "primi",
       "title": "Cacio e Pepe",
       "description": "Pepe nero, formaggio pecorino romano e pasta.",
-      "imageUrl": "https://s2.qwant.com/thumbr/474x316/d/d/92d8905374d8710c689d9ee9580ad17160cdc0c8721c70e939a257cc315d00/th.jpg?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.erpeioy8Wk-akC2quqVt_QHaE8%26pid%3DApi&q=0&b=1&p=0&a=0",
+      "imageUrl": "https://michelefenu.github.io/tnv-academy-VII/the-net-pizza-bootstrap/assets/images/cacio-pepe.jpg",
       "price": "8",
       "available": true,
       "ingredients": [
@@ -131,7 +131,7 @@
       "category": "primi",
       "title": "Amatriciana",
       "description": "Piatto tipico di Amatrice, cittadina in provincia di Rieti.",
-      "imageUrl": "https://s1.qwant.com/thumbr/474x355/0/0/379893dc875df7a75bb231f6f60ffc82ea6c92954900c48452fc2075ca4ca5/th.jpg?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.UVmtXoxGCHpIx_C1awGqOwHaFj%26pid%3DApi&q=0&b=1&p=0&a=0",
+      "imageUrl": "https://michelefenu.github.io/tnv-academy-VII/the-net-pizza-bootstrap/assets/images/amatriciana.jpg",
       "price": "8",
       "available": false,
       "ingredients": [
@@ -155,9 +155,9 @@
       "category": "primi",
       "title": "Fregola con Arselle",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "imageUrl": "https://s2.qwant.com/thumbr/474x316/5/c/a4410a79d439190e84e97cb6571727e75bf2f7809de38c281ff59530a038d8/th.jpg?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.FtV_kLwvEq0DJ7d9M9cnggHaE8%26pid%3DApi&q=0&b=1&p=0&a=0",
+      "imageUrl": "https://michelefenu.github.io/tnv-academy-VII/the-net-pizza-bootstrap/assets/images/fregola-arselle.jpg",
       "price": "7",
-      "available": true,
+      "available": false,
       "ingredients": [
         "Fegola",
         "Vongole",
@@ -180,7 +180,7 @@
       "category": "primi",
       "title": "Risotto ai Funghi",
       "description": "Un piatto invernale, solo con porcini regionali raccolti a mano.",
-      "imageUrl": "https://s1.qwant.com/thumbr/474x266/2/7/298152623c090d3d8da2d9f881cf6235d5ba4554378e7739129394a97873a8/th.jpg?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.ZjE4ksTGATe3jSXxodL_iwHaEK%26pid%3DApi&q=0&b=1&p=0&a=0",
+      "imageUrl": "https://michelefenu.github.io/tnv-academy-VII/the-net-pizza-bootstrap/assets/images/risotto-funghi.jpg",
       "price": "10",
       "available": true,
       "ingredients": [
@@ -205,7 +205,7 @@
       "category": "dolci",
       "title": "Seadas",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "imageUrl": "https://s1.qwant.com/thumbr/474x311/b/1/d4c16c348b55f36c4b71866aecc03a8fc43583e3736434d04b21d1d400c023/th.jpg?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.hrlxol6QkJGc7lEnKuZ2LAHaE3%26pid%3DApi&q=0&b=1&p=0&a=0",
+      "imageUrl": "https://michelefenu.github.io/tnv-academy-VII/the-net-pizza-bootstrap/assets/images/seadas.jpg",
       "price": "6",
       "available": true,
       "ingredients": [
@@ -229,7 +229,7 @@
       "category": "dolci",
       "title": "Cheesecake",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "imageUrl": " https://s2.qwant.com/thumbr/474x473/4/c/5f7f5c494be3fb8b56f7774235f9c2a1c9e32f5f90cc12263fc59f92be3f6e/th.jpg?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.3sMUb5fk9QmTGPN3QCxhUgHaHZ%26pid%3DApi&q=0&b=1&p=0&a=0",
+      "imageUrl": "https://michelefenu.github.io/tnv-academy-VII/the-net-pizza-bootstrap/assets/images/cheesecake.jpg",
       "price": "5",
       "available": true,
       "ingredients": [
@@ -253,7 +253,7 @@
       "category": "dolci",
       "title": "Tiramisù",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "imageUrl": "https://s2.qwant.com/thumbr/474x315/5/7/b79e73192381d76abf50e8cb2d280fb6708f165a984d15789587d964009cb1/th.jpg?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.h_ZHzhGOPW5OQA3Za0US4gHaE7%26pid%3DApi&q=0&b=1&p=0&a=0",
+      "imageUrl": "https://michelefenu.github.io/tnv-academy-VII/the-net-pizza-bootstrap/assets/images/tiramisu.jpg",
       "price": "6",
       "available": true,
       "ingredients": [
