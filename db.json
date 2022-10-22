@@ -5,7 +5,7 @@
       "category": "antipasti",
       "title": "Tagliere di salumi",
       "description": "Un assortimento di salumi regionali ed extraregionali.",
-      "imageUrl": "https://github.com/GloriaRagnedda/db-recipes/blob/main/img/tagliere%20salumi.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/GloriaRagnedda/db-recipes/main/img/tagliere%20salumi.jpg",
       "price": "12",
       "ingredients": [
         "Prosciutto",
