@@ -180,7 +180,7 @@
       "category": "primi",
       "title": "Risotto ai Funghi",
       "description": "Un piatto invernale, solo con porcini regionali raccolti a mano.",
-      "imageUrl": https://raw.githubusercontent.com/GloriaRagnedda/db-recipes/main/img/risottoAiFunghi.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/GloriaRagnedda/db-recipes/main/img/risottoAiFunghi.jpg",
       "price": "10",
       "available": true,
       "ingredients": [
