@@ -131,7 +131,7 @@
       "category": "primi",
       "title": "Amatriciana",
       "description": "Piatto tipico di Amatrice, cittadina in provincia di Rieti.",
-      "imageUrl": "https://github.com/GloriaRagnedda/db-recipes/blob/main/img/tagliere%20salumi.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/GloriaRagnedda/db-recipes/main/img/street-food-g7cb4f84e6_1280.jpg",
       "price": "8",
       "available": false,
       "ingredients": [
