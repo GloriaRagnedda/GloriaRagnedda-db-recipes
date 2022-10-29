@@ -31,7 +31,7 @@
       "category": "antipasti",
       "title": "Antipasto di Mare",
       "description": "Una selezione di antipasti tradizionali a base di pesce.",
-      "imageUrl": "https://github.com/GloriaRagnedda/db-recipes/blob/main/img/tagliere%20salumi.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/GloriaRagnedda/db-recipes/main/img/antipastoDiMare.jpg",
       "price": "15",
       "available": false,
       "ingredients": [
@@ -57,7 +57,7 @@
       "category": "antipasti",
       "title": "Zuppa di Mare",
       "description": "Zuppa di cozze e arselle su crostini piccanti.",
-      "imageUrl": "https://github.com/GloriaRagnedda/db-recipes/blob/main/img/tagliere%20salumi.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/GloriaRagnedda/db-recipes/main/img/zuppaDiMare.jpg",
       "price": "10",
       "available": false,
       "ingredients": [
@@ -82,7 +82,7 @@
       "category": "primi",
       "title": "Carbonara",
       "description": "Un classico intramontabile della cucina romana.",
-      "imageUrl": "https://github.com/GloriaRagnedda/db-recipes/blob/main/img/tagliere%20salumi.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/GloriaRagnedda/db-recipes/main/img/Carbonara-ricetta.jpg",
       "price": "9",
       "available": false,
       "ingredients": [
@@ -107,7 +107,7 @@
       "category": "primi",
       "title": "Cacio e Pepe",
       "description": "Pepe nero, formaggio pecorino romano e pasta.",
-      "imageUrl": "https://github.com/GloriaRagnedda/db-recipes/blob/main/img/tagliere%20salumi.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/GloriaRagnedda/db-recipes/main/img/pasta.jpg",
       "price": "8",
       "available": true,
       "ingredients": [
@@ -155,7 +155,7 @@
       "category": "primi",
       "title": "Fregola con Arselle",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "imageUrl": "https://github.com/GloriaRagnedda/db-recipes/blob/main/img/tagliere%20salumi.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/GloriaRagnedda/db-recipes/main/img/fregolaConArselle.jpg",
       "price": "7",
       "available": false,
       "ingredients": [
@@ -180,7 +180,7 @@
       "category": "primi",
       "title": "Risotto ai Funghi",
       "description": "Un piatto invernale, solo con porcini regionali raccolti a mano.",
-      "imageUrl": "https://github.com/GloriaRagnedda/db-recipes/blob/main/img/tagliere%20salumi.jpg",
+      "imageUrl": https://raw.githubusercontent.com/GloriaRagnedda/db-recipes/main/img/risottoAiFunghi.jpg",
       "price": "10",
       "available": true,
       "ingredients": [
@@ -205,7 +205,7 @@
       "category": "dolci",
       "title": "Seadas",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "imageUrl": "https://github.com/GloriaRagnedda/db-recipes/blob/main/img/tagliere%20salumi.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/GloriaRagnedda/db-recipes/main/img/seadas.jpg",
       "price": "6",
       "available": true,
       "ingredients": [
@@ -229,7 +229,7 @@
       "category": "dolci",
       "title": "Cheesecake",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "imageUrl": "https://github.com/GloriaRagnedda/db-recipes/blob/main/img/tagliere%20salumi.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/GloriaRagnedda/db-recipes/main/img/cheesecake.jpg",
       "price": "5",
       "available": true,
       "ingredients": [
@@ -253,7 +253,7 @@
       "category": "dolci",
       "title": "Tiramisù",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "imageUrl": "https://github.com/GloriaRagnedda/db-recipes/blob/main/img/tagliere%20salumi.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/GloriaRagnedda/db-recipes/main/img/tiramisu'.jpg",
       "price": "6",
       "available": true,
       "ingredients": [
